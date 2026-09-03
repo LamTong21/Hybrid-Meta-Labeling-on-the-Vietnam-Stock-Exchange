@@ -5,9 +5,8 @@
 > 
 > **Author:** Tong Son Lam
 > 
-> **Supervisor:** Assoc. Prof. Tran Vu Khanh
 > 
-> **Institution:** Department of Mathematics, International University – Vietnam National University HCMC
+> **Institution:** Department of Mathematics
 > 
 
 ## 📌 Executive Summary
@@ -227,7 +226,6 @@ If you find this work or implementation useful in your research, please cite:
 @bachelorthesis{lam2026hybridmetalabeling,
   author       = {Tong Son Lam},
   title        = {Hybrid Meta-Labeling and Policy Optimization with Regime-Switching for Adaptive Short-Term Trading in the Vietnam Stock Exchange Market},
-  school       = {Department of Mathematics, International University -- VNU HCMC},
   year         = {2026},
   month        = {January},
   type         = {Bachelor of Science Thesis},
